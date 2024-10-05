@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Simplemente escribe la tarea que deeses añadir y agregala con el boton agregar, para eliminar utiliza el boton derecho de lado de cada elemento de la lista o tambien puedes marcarla como completado con el boton de la izquierda utilizando el check box.
